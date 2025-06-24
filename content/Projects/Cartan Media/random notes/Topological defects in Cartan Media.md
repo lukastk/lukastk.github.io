@@ -45,7 +45,7 @@ X_v & = \Phi^{-1} \lim_{h \to 0} \frac{\Phi(u, v+h) - \Phi(u,v)}{h}
 \end{aligned}
 $$
 
-we essentially have a definition that allows for topological defects. And if we compute them we see that $X_u|_{u=0,v=0} = X_v|_{u=0,v=0} = 0$. **NOTE: note correct**
+we essentially have a definition that allows for topological defects. And if we compute them we see that $X_u|_{u=0,v=0} = X_v|_{u=0,v=0} = 0$. **NOTE: not correct. check those equations again**
 
 Now, if we integrate up from the Lie algebra to the Lie group, we will recover the correct $\Phi$, but it will be multi-valued at the origin. This is of course because the spatial integrability of the generalised strain does not hold at the origin. We have that
 $$
