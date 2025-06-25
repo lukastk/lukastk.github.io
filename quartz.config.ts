@@ -13,7 +13,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "tinylytics",
+      siteId: "7sXEfQwaNhamz1CZXxtk",
     },
     locale: "en-US",
     baseUrl: "lukastk.dev",
