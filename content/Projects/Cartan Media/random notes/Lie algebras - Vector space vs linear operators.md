@@ -48,8 +48,9 @@ $$
 
 
 There is a slight inconsistency between how $\rho_\text{fund}(A)$ appears in $(2)$ and $(3)$. In the former it is a matrix, and in the latter it appears as a function that takes $\mathbf{v}$ as its argument. Explanation:
-    -  We should see $(2)$ as the *matrix form* of the linear operator $\rho_\text{fund}(A)$ in a given basis of $\mathbb{E}^3$.
-    -  We should see $(3)$ as the *linear operator form* of the representation, which is basis-independent.
+
+-  We should see $(2)$ as the *matrix form* of the linear operator $\rho_\text{fund}(A)$ in a given basis of $\mathbb{E}^3$.
+-  We should see $(3)$ as the *linear operator form* of the representation, which is basis-independent.
 
 Henceforth, to be extra clear, we shall differentiate the two notationally. $\rho_\text{fund}(A)$ refers to the linear operator, and $[\rho_\text{fund}(A)]$ will refer to its matrix form (in a given basis of $V= \mathbb{E}^3$). As a short-hand, we may also write $[A] \equiv [\rho_\text{fund}(A)]$.
 
