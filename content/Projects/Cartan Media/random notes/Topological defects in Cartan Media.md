@@ -1,9 +1,11 @@
 ---
 createdat: 2025-01-05T18:22:14.450Z
 notetype: doc
-parent: "[[Cartan Media paper]]"
+parent:
 doc-status: done
 links:
+  - "[[Cartan Media]]"
+  - "[[Cartan Media paper]]"
 ---
 One way to do a showcase of topological defects is to try emulate a simple field theory topological defect. So take a polar field theory in 2D. That would be a $d=2$ and $G=SO(2)$ Cartan media. So I can try to come up with a configuration that imitates defects like:
 
